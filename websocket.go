@@ -17,6 +17,7 @@ func headerContains(header http.Header, name string, value string) bool {
 			}
 		}
 	}
+	// Ronen - let's return false now
 	return false
 }
 
