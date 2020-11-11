@@ -15,4 +15,4 @@ steps:
 
 - task: WhiteSource@20
   inputs:
-    projectName: 'AZDO_go_Proxy'
+    projectName: 'AZDO_go_proxy'
